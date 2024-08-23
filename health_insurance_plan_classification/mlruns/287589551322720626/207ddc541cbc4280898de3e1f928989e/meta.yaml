@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rabernar/Visual_Studio/Git_DataScience_REPOs/Health_Insurance_Plan_Classification/health_insurance_plan_classification/mlruns/287589551322720626/207ddc541cbc4280898de3e1f928989e/artifacts
+end_time: 1724111861878
+entry_point_name: ''
+experiment_id: '287589551322720626'
+lifecycle_stage: active
+run_id: 207ddc541cbc4280898de3e1f928989e
+run_name: caring-lark-489
+run_uuid: 207ddc541cbc4280898de3e1f928989e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724111861868
+status: 4
+tags: []
+user_id: rabernar

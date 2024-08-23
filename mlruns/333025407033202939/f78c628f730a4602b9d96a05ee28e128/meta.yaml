@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/333025407033202939/f78c628f730a4602b9d96a05ee28e128/artifacts
+deleted_time: 1724261260857
+end_time: 1724198703744
+entry_point_name: ''
+experiment_id: '333025407033202939'
+lifecycle_stage: deleted
+run_id: f78c628f730a4602b9d96a05ee28e128
+run_name: Second Linear Model
+run_uuid: f78c628f730a4602b9d96a05ee28e128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724198702734
+status: 3
+tags: []
+user_id: rabernar

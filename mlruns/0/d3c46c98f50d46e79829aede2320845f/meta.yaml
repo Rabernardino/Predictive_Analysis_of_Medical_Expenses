@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d3c46c98f50d46e79829aede2320845f/artifacts
+deleted_time: 1724179585336
+end_time: 1724179466271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d3c46c98f50d46e79829aede2320845f
+run_name: adaptable-hound-358
+run_uuid: d3c46c98f50d46e79829aede2320845f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724179466227
+status: 3
+tags: []
+user_id: rabernar

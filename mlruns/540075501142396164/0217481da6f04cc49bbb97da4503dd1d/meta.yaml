@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540075501142396164/0217481da6f04cc49bbb97da4503dd1d/artifacts
+deleted_time: 1724181702314
+end_time: 1724181662100
+entry_point_name: ''
+experiment_id: '540075501142396164'
+lifecycle_stage: deleted
+run_id: 0217481da6f04cc49bbb97da4503dd1d
+run_name: mercurial-newt-916
+run_uuid: 0217481da6f04cc49bbb97da4503dd1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724181662061
+status: 4
+tags: []
+user_id: rabernar

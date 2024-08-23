@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             medexpense   R-squared:                       0.901
+Model:                            OLS   Adj. R-squared:                  0.890
+Method:                 Least Squares   F-statistic:                     80.43
+Date:                Tue, 20 Aug 2024   Prob (F-statistic):           5.35e-21
+Time:                        20:20:28   Log-Likelihood:                -197.45
+No. Observations:                  50   AIC:                             406.9
+Df Residuals:                      44   BIC:                             418.4
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const          170.7219     20.641      8.271      0.000     129.123     212.321
+age             11.3499     10.370      1.094      0.280      -9.550      32.249
+dcron           11.5547      4.075      2.836      0.007       3.343      19.766
+income         -11.4732     10.199     -1.125      0.267     -32.027       9.081
+plan_emerald   -35.6114      7.106     -5.012      0.000     -49.932     -21.291
+plan_golden    -59.8456      9.892     -6.050      0.000     -79.782     -39.910
+==============================================================================
+Omnibus:                       11.182   Durbin-Watson:                   1.430
+Prob(Omnibus):                  0.004   Jarque-Bera (JB):               14.519
+Skew:                           0.742   Prob(JB):                     0.000703
+Kurtosis:                       5.184   Cond. No.                         892.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

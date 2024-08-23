@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540075501142396164/fc137f3cf25e4d15b2d77856d060a813/artifacts
+deleted_time: 1724181702314
+end_time: null
+entry_point_name: ''
+experiment_id: '540075501142396164'
+lifecycle_stage: deleted
+run_id: fc137f3cf25e4d15b2d77856d060a813
+run_name: traveling-shad-668
+run_uuid: fc137f3cf25e4d15b2d77856d060a813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724181324098
+status: 1
+tags: []
+user_id: rabernar

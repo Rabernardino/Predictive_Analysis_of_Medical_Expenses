@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540075501142396164/36f9a8d18aa343aba82ff5ba02be6b01/artifacts
+deleted_time: 1724181782887
+end_time: 1724181053974
+entry_point_name: ''
+experiment_id: '540075501142396164'
+lifecycle_stage: deleted
+run_id: 36f9a8d18aa343aba82ff5ba02be6b01
+run_name: sneaky-shrew-998
+run_uuid: 36f9a8d18aa343aba82ff5ba02be6b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724181053932
+status: 3
+tags: []
+user_id: rabernar

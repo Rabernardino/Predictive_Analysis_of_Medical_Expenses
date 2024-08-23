@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rabernar/Visual_Studio/Git_DataScience_REPOs/Health_Insurance_Plan_Classification/health_insurance_plan_classification/mlruns/0/7fc3bcddb9ea4133842d5e54b112a849/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fc3bcddb9ea4133842d5e54b112a849
+run_name: capricious-mouse-55
+run_uuid: 7fc3bcddb9ea4133842d5e54b112a849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724181750210
+status: 1
+tags: []
+user_id: rabernar

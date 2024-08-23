@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/209625196404749461
+creation_time: 1724179466172
+experiment_id: '209625196404749461'
+last_update_time: 1724179571153
+lifecycle_stage: deleted
+name: Firts Linear Regression Experiment
+tags: {}

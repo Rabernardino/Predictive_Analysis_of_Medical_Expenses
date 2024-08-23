@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             medexpense   R-squared:                       0.898
+Model:                            OLS   Adj. R-squared:                  0.891
+Method:                 Least Squares   F-statistic:                     134.5
+Date:                Tue, 20 Aug 2024   Prob (F-statistic):           8.94e-23
+Time:                        21:05:02   Log-Likelihood:                -198.39
+No. Observations:                  50   AIC:                             404.8
+Df Residuals:                      46   BIC:                             412.4
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const          169.1363     10.537     16.051      0.000     147.926     190.347
+dcron            9.9384      2.318      4.288      0.000       5.273      14.604
+plan_emerald   -37.1054      6.923     -5.360      0.000     -51.041     -23.170
+plan_golden    -62.1833      9.538     -6.520      0.000     -81.382     -42.985
+==============================================================================
+Omnibus:                       13.402   Durbin-Watson:                   1.514
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               18.046
+Skew:                           0.889   Prob(JB):                     0.000121
+Kurtosis:                       5.346   Cond. No.                         25.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540075501142396164/527735dc878d4831903c058832e5ce18/artifacts
+deleted_time: 1724184163340
+end_time: 1724181810436
+entry_point_name: ''
+experiment_id: '540075501142396164'
+lifecycle_stage: deleted
+run_id: 527735dc878d4831903c058832e5ce18
+run_name: abundant-croc-609
+run_uuid: 527735dc878d4831903c058832e5ce18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724181810390
+status: 3
+tags: []
+user_id: rabernar

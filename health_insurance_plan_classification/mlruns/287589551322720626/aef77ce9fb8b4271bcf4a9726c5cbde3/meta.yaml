@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rabernar/Visual_Studio/Git_DataScience_REPOs/Health_Insurance_Plan_Classification/health_insurance_plan_classification/mlruns/287589551322720626/aef77ce9fb8b4271bcf4a9726c5cbde3/artifacts
+end_time: 1724113738599
+entry_point_name: ''
+experiment_id: '287589551322720626'
+lifecycle_stage: active
+run_id: aef77ce9fb8b4271bcf4a9726c5cbde3
+run_name: stately-shark-767
+run_uuid: aef77ce9fb8b4271bcf4a9726c5cbde3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724113738561
+status: 4
+tags: []
+user_id: rabernar

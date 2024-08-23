@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540075501142396164/0083bf5412c04c21b0530e18b636a714/artifacts
+deleted_time: 1724181702314
+end_time: 1724181403295
+entry_point_name: ''
+experiment_id: '540075501142396164'
+lifecycle_stage: deleted
+run_id: 0083bf5412c04c21b0530e18b636a714
+run_name: classy-fox-118
+run_uuid: 0083bf5412c04c21b0530e18b636a714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724181403264
+status: 4
+tags: []
+user_id: rabernar

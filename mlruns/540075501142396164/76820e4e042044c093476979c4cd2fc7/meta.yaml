@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540075501142396164/76820e4e042044c093476979c4cd2fc7/artifacts
+end_time: 1724194022624
+entry_point_name: ''
+experiment_id: '540075501142396164'
+lifecycle_stage: active
+run_id: 76820e4e042044c093476979c4cd2fc7
+run_name: First Linear Model
+run_uuid: 76820e4e042044c093476979c4cd2fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724194021504
+status: 3
+tags: []
+user_id: rabernar

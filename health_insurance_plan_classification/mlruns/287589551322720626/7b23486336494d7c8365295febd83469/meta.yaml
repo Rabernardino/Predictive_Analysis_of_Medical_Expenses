@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rabernar/Visual_Studio/Git_DataScience_REPOs/Health_Insurance_Plan_Classification/health_insurance_plan_classification/mlruns/287589551322720626/7b23486336494d7c8365295febd83469/artifacts
+end_time: 1724113793035
+entry_point_name: ''
+experiment_id: '287589551322720626'
+lifecycle_stage: active
+run_id: 7b23486336494d7c8365295febd83469
+run_name: masked-stork-915
+run_uuid: 7b23486336494d7c8365295febd83469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724113792990
+status: 3
+tags: []
+user_id: rabernar

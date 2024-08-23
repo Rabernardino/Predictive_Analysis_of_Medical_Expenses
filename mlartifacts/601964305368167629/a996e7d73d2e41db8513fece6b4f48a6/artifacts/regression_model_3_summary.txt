@@ -1,0 +1,26 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             medexpense   R-squared:                       0.876
+Model:                            OLS   Adj. R-squared:                  0.871
+Method:                 Least Squares   F-statistic:                     166.5
+Date:                Thu, 22 Aug 2024   Prob (F-statistic):           4.68e-22
+Time:                        11:15:30   Log-Likelihood:                 88.949
+No. Observations:                  50   AIC:                            -171.9
+Df Residuals:                      47   BIC:                            -166.2
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           3.4837      0.015    226.460      0.000       3.453       3.515
+dcron           0.0515      0.005     11.118      0.000       0.042       0.061
+plan_golden    -0.0916      0.017     -5.350      0.000      -0.126      -0.057
+==============================================================================
+Omnibus:                        0.826   Durbin-Watson:                   1.919
+Prob(Omnibus):                  0.662   Jarque-Bera (JB):                0.904
+Skew:                           0.210   Prob(JB):                        0.636
+Kurtosis:                       2.493   Cond. No.                         11.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

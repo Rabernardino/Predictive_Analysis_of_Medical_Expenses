@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/601964305368167629/b49e21caebb54797b174cc1e10f57a47/artifacts
+deleted_time: 1724336140659
+end_time: 1724336110884
+entry_point_name: ''
+experiment_id: '601964305368167629'
+lifecycle_stage: deleted
+run_id: b49e21caebb54797b174cc1e10f57a47
+run_name: Third Linear Model
+run_uuid: b49e21caebb54797b174cc1e10f57a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724336110872
+status: 4
+tags: []
+user_id: rabernar
